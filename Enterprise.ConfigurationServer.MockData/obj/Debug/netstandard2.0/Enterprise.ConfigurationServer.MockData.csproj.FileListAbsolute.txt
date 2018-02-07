@@ -1,0 +1,15 @@
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.MockData\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.MockData.deps.json
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.MockData\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.MockData.dll
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.MockData\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.MockData.pdb
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.MockData\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.dll
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.MockData\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.dll
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.MockData\bin\Debug\netstandard2.0\Enterprise.MockData.NetStandard.dll
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.MockData\bin\Debug\netstandard2.0\Enterprise.Constants.NetStandard.pdb
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.MockData\bin\Debug\netstandard2.0\Enterprise.MockData.NetStandard.pdb
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.MockData\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.pdb
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.MockData\obj\Debug\netstandard2.0\Enterprise.ConfigurationServer.MockData.csprojResolveAssemblyReference.cache
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.MockData\obj\Debug\netstandard2.0\Enterprise.ConfigurationServer.MockData.csproj.CoreCompileInputs.cache
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.MockData\obj\Debug\netstandard2.0\Enterprise.ConfigurationServer.MockData.AssemblyInfoInputs.cache
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.MockData\obj\Debug\netstandard2.0\Enterprise.ConfigurationServer.MockData.AssemblyInfo.cs
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.MockData\obj\Debug\netstandard2.0\Enterprise.ConfigurationServer.MockData.dll
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.MockData\obj\Debug\netstandard2.0\Enterprise.ConfigurationServer.MockData.pdb

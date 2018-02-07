@@ -1,0 +1,9 @@
+E:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.Interfaces\bin\Release\netstandard2.0\Enterprise.ConfigurationServer.Interfaces.deps.json
+E:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.Interfaces\bin\Release\netstandard2.0\Enterprise.ConfigurationServer.Interfaces.dll
+E:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.Interfaces\bin\Release\netstandard2.0\Enterprise.ConfigurationServer.Interfaces.pdb
+E:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.Interfaces\obj\Release\netstandard2.0\Enterprise.ConfigurationServer.Interfaces.csprojResolveAssemblyReference.cache
+E:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.Interfaces\obj\Release\netstandard2.0\Enterprise.ConfigurationServer.Interfaces.csproj.CoreCompileInputs.cache
+E:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.Interfaces\obj\Release\netstandard2.0\Enterprise.ConfigurationServer.Interfaces.AssemblyInfoInputs.cache
+E:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.Interfaces\obj\Release\netstandard2.0\Enterprise.ConfigurationServer.Interfaces.AssemblyInfo.cs
+E:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.Interfaces\obj\Release\netstandard2.0\Enterprise.ConfigurationServer.Interfaces.dll
+E:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.Interfaces\obj\Release\netstandard2.0\Enterprise.ConfigurationServer.Interfaces.pdb

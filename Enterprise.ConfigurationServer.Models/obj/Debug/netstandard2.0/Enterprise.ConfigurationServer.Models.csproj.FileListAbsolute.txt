@@ -1,0 +1,8 @@
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.Models\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.Models.deps.json
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.Models\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.Models.dll
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.Models\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.Models.pdb
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.Models\obj\Debug\netstandard2.0\Enterprise.ConfigurationServer.Models.csproj.CoreCompileInputs.cache
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.Models\obj\Debug\netstandard2.0\Enterprise.ConfigurationServer.Models.AssemblyInfoInputs.cache
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.Models\obj\Debug\netstandard2.0\Enterprise.ConfigurationServer.Models.AssemblyInfo.cs
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.Models\obj\Debug\netstandard2.0\Enterprise.ConfigurationServer.Models.dll
+H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.Models\obj\Debug\netstandard2.0\Enterprise.ConfigurationServer.Models.pdb

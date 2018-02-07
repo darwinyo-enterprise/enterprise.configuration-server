@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Enterprise.ConfigurationServer.DTO</id>
+    <version>1.0.0</version>
+    <authors>Darwin Yo</authors>
+    <owners>Darwin Yo</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="H:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.DTO\bin\Debug\netstandard2.0\Enterprise.ConfigurationServer.DTO.dll" target="lib\netstandard2.0\Enterprise.ConfigurationServer.DTO.dll" />
+  </files>
+</package>

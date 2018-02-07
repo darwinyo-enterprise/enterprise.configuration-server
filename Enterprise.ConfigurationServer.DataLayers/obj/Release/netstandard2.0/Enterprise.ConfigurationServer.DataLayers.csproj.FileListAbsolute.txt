@@ -1,0 +1,9 @@
+E:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.DataLayers\bin\Release\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.deps.json
+E:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.DataLayers\bin\Release\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.dll
+E:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.DataLayers\bin\Release\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.pdb
+E:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.DataLayers\obj\Release\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.csprojResolveAssemblyReference.cache
+E:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.DataLayers\obj\Release\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.csproj.CoreCompileInputs.cache
+E:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.DataLayers\obj\Release\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.AssemblyInfoInputs.cache
+E:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.DataLayers\obj\Release\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.AssemblyInfo.cs
+E:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.DataLayers\obj\Release\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.dll
+E:\Projects\Enterprise\Configuration Server\Enterprise.ConfigurationServer.DataLayers\obj\Release\netstandard2.0\Enterprise.ConfigurationServer.DataLayers.pdb
